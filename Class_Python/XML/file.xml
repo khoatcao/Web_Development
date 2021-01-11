@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+    <first_name>Python</first_name>
+    <last_name>2011</last_name>
+    <expertise name = "python">python</expertise>
+    <ID>CMD</ID>
+    <class>junior</class>
+    <format>right</format>
+    <Money>10000</Money>
+</information>
