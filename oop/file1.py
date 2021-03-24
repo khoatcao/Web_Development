@@ -7,7 +7,7 @@ class Calculator :
     def __init__(self,a,b) :
         self.a = a
         self.b = b  
-        
+    # Method    
     # add two numbers
     def add(self) :
         return self.a + self.b  
